@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95dad139-1bd3-4b36-ad8a-f9f390ddd0ce" name="Changes" comment="load git">
-      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DijkstraSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyGraph.java" afterDir="false" />
-    </list>
+    <list default="true" id="95dad139-1bd3-4b36-ad8a-f9f390ddd0ce" name="Changes" comment="added algorithms" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +80,7 @@
       <workItem from="1716955474613" duration="608000" />
       <workItem from="1717151775448" duration="326000" />
       <workItem from="1717326941874" duration="350000" />
-      <workItem from="1717327370539" duration="3087000" />
+      <workItem from="1717327370539" duration="3394000" />
     </task>
     <task id="LOCAL-00001" summary="load git">
       <option name="closed" value="true" />
@@ -109,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716955602010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added algorithms">
+      <option name="closed" value="true" />
+      <created>1717337834188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717337834188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="load git" />
-    <option name="LAST_COMMIT_MESSAGE" value="load git" />
+    <MESSAGE value="added algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="added algorithms" />
   </component>
 </project>
